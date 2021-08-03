@@ -48,14 +48,23 @@ body {
 	text-align: left;
 }
 
+#links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .link {
 	text-decoration: none;
 	color: #00FF33;
+        text-align: left;
+        align-self: auto;
 }
 
 .link-text {
 	font-size: 0.8em;
 }
+
 
 .link-text:hover {
 	color: #FFA500;
