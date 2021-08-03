@@ -2,5 +2,7 @@
 deployment:
         tasks:
                 - export DEPLOYPATH=/home/swanhack/public_html/
-                - /bin/cp index.html $DEPLOYPATH
-                - /bin/cp style.css $DEPLOYPATH
+                - /bin/cp index.html index.css favicon.ico $DEPLOYPATH
+                - /bin/cp 404.html 404.css $DEPLOYPATH
+                - /bin/cp code_of_conduct.pdf $DEPLOYPATH
+                - /bin/cp -r discord $DEPLOYPATH
