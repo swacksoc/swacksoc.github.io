@@ -1,6 +1,5 @@
 # Website
 Source code of the Swack website
 
-Being hosted on Github Pages - https://swanhack.github.io/website/
+Being hosted on Github Pages - https://swacksoc.github.io/
 
-[Until July 24] Being hosted on https://swanhack.club
