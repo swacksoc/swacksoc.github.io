@@ -1,5 +1,5 @@
 # Website
-Source code of the Swack website
+Source code of the Swack website.
 
-Being hosted on Github Pages - https://swacksoc.github.io/
+This website is being hosted on Github Pages - https://swacksoc.github.io/
 
